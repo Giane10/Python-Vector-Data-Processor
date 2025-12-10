@@ -1,6 +1,7 @@
 import numpy as np
 import time
 
+
 # ==========================================
 # 🧪 ARQUIVO DE ESTUDO E PERFORMANCE
 # ==========================================
